@@ -13,8 +13,8 @@ Use this section to describe your final project and perhaps any links to relevan
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Also, define the the React components and the architectural design of your app.
 
-- [add link to your visual wireframes]()
-- [add link to your react architecture]()
+- [https://photos.app.goo.gl/WiaAWKpq7vSJEcrV8]()
+- [https://photos.app.goo.gl/rwSqnEpjWqipjpxw9]()
 
 
 ### MVP/PostMVP - 5min
